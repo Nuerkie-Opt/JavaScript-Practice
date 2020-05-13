@@ -1,0 +1,47 @@
+ 	body{
+ 		    color :green;
+		 	font-family: verdana, Arial, Geneva, Arial Black;
+		 	font-weight: lighter;
+		 	background-color: #ffcf79;
+		 	font-size : 25px;
+	       }
+		h1{
+			text-decoration: underline;
+			font-size: 150%
+		}
+
+		h2 {
+			text-decoration: underline;
+			font-size: 1.2em
+		}		
+		p.para1  {
+			color :blue;
+		}
+		
+		p.para2  {
+			color :purple;
+		}
+		p.para3 {
+			color :purple;
+			font-size : 15px;
+			line-height: 1.5em;
+			background-color: #e5e4d7;
+			padding: 20px;
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+		} 	
+
+			p.para4 {
+			color :black;
+			font-size : 15px;
+			line-height: 1.5em;
+			background-color: #e5e4d7;
+			padding: 20px;
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+			margin: 20px;
+			margin-top: 50px;
+			margin-left: 400px;
+		} 	
